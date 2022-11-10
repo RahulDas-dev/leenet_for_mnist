@@ -5,8 +5,8 @@ Build a DNN Model for MNIST Dataset Provided below. Expected Test accuracy is 97
 Data Set URL - https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
 
 #### Dataset 
-![correct_img](./correct_prediction.png)
+![correct_img](./model/correct_prediction.png)
 
 <hr>
 
-![wrong_img](./wrong_prediction.png)
+![wrong_img](./model/wrong_prediction.png)
