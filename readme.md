@@ -7,6 +7,6 @@ Data Set URL - https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
 #### Dataset 
 ![correct_img](./correct_prediction.png)
 
-
+<hr>
 
 ![wrong_img](./wrong_prediction.png)
